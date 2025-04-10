@@ -2,7 +2,7 @@
 
 **Привет, меня зовут Роман👋** 
 
-**Я программирую на Golang, знаю Python, чуть React🔥 Упор делаю в бекенд разработку💻**
+**Я программирую на Golang, знаю Python, чуть React🔥 Упор делаю в бекенд разработку💻 Пишу REST API**
 
 **Telegram: [@FlorikX](https://t.me/FlorikX)**
 
