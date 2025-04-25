@@ -17,4 +17,4 @@
 
 *[Telegram Channel](https://t.me/+S0LvaenK77BjMTk6)* 
 
-*[Telegram](httpsg://t.me/FlorikX)* 
+*[Telegram](https://t.me/FlorikX)* 
