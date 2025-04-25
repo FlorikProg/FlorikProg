@@ -15,6 +15,6 @@
 
 ## Соцсети💻
 
-*[Telegram Channel](https://t.me/florik_prog_it)* 
+*[Telegram Channel](https://t.me/+S0LvaenK77BjMTk6)* 
 
-*[Telegram](https://t.me/FlorikX)* 
+*[Telegram](httpsg://t.me/FlorikX)* 
