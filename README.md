@@ -4,7 +4,7 @@
 
 **Я программирую на Golang, знаю Python, чуть React🔥 Упор делаю в бекенд разработку💻 Пишу REST API**
 
-**Telegram: [@FlorikX](https://t.me/FlorikX)**
+**Telegram: [@RomanLoginov101](https://t.me/RomanLoginov101)**
 
 ---
 ## Стек🔥
